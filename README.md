@@ -6,6 +6,7 @@ To implement the given logic function using NAND and NOR gates and to verify its
 
 F=((C'.B.A)'(D'.C.A)'(C.B'.A)')' using NAND gate
 F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
+
 ## Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher,Software – Quartus prime
 
